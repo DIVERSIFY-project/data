@@ -1,0 +1,266 @@
+tri1 | 3 nodes | 3 edges
+dc019ed63ecafe6f15896adee5229dcbf22c8365 2aff8f254511701c94549d952a64b572b8511bd0 5415a27a4e3f911deb80139adbda9337de2aaeea 
+aa1baadf5850c063ececbb60c4aa9e4ee6813a7b 9b6faf5390771a4031979bf688ff2415ffd4f113 f8e67c4a8e2b58f440e48acbe1ffb881a83b6a5c 
+a47faa7a2587cbe7db7a0c5faed68cde424270d8 9b6faf5390771a4031979bf688ff2415ffd4f113 f8e67c4a8e2b58f440e48acbe1ffb881a83b6a5c 
+760ba13f867fea4b452a7e5f68a02fcd4670093a a0a4487d7e54153223dd0e41d404ab355e96e572 20b5c07cf43ac68ec243f989d62d970d542df6a2 
+c721d27ba7bc82e0193c18d8d84f062f5979d77b 760ba13f867fea4b452a7e5f68a02fcd4670093a a0a4487d7e54153223dd0e41d404ab355e96e572 
+b8756d1a6cde639d8937e04b1a6bb8a2f67f92ed 5dcda46341db7ea3b0de1b66e872087e75adc046 0afde5d59d061af5b7d76798aa77b5901ddb4bb2 
+dc019ed63ecafe6f15896adee5229dcbf22c8365 7f535f3b95d68c199a10159aeba0e52a1ac3a9bc 5415a27a4e3f911deb80139adbda9337de2aaeea 
+5dcda46341db7ea3b0de1b66e872087e75adc046 4388aabf0d89287cfe16e3ecccee4384009a7e90 0afde5d59d061af5b7d76798aa77b5901ddb4bb2 
+----
+tetra1 | 4 nodes | 4 edges
+2ad898cd9cc482d51d83eed3df6ca739534cefc1 a47faa7a2587cbe7db7a0c5faed68cde424270d8 aa1baadf5850c063ececbb60c4aa9e4ee6813a7b 9b6faf5390771a4031979bf688ff2415ffd4f113 
+2ad898cd9cc482d51d83eed3df6ca739534cefc1 a47faa7a2587cbe7db7a0c5faed68cde424270d8 aa1baadf5850c063ececbb60c4aa9e4ee6813a7b f8e67c4a8e2b58f440e48acbe1ffb881a83b6a5c 
+2ad898cd9cc482d51d83eed3df6ca739534cefc1 66c165e4b0c1b7c42eaa8c4df9622124779db501 2358694ca81a6e7b175ed2955a77bef88682183f 5ac0ed501b73774625ad6fbed48bf305dbfc866b 
+b8756d1a6cde639d8937e04b1a6bb8a2f67f92ed ddbb48ec03092f0754ceb766ea71dac1f0b3df39 5dcda46341db7ea3b0de1b66e872087e75adc046 4388aabf0d89287cfe16e3ecccee4384009a7e90 
+b8756d1a6cde639d8937e04b1a6bb8a2f67f92ed ddbb48ec03092f0754ceb766ea71dac1f0b3df39 4388aabf0d89287cfe16e3ecccee4384009a7e90 0afde5d59d061af5b7d76798aa77b5901ddb4bb2 
+----
+tetra2 | 4 nodes | 4 edges
+----
+tetra3 | 4 nodes | 4 edges
+75342be09b9d1c9c23b755ed6005867376aa1c28 7adb6b86d5744dbf84c4462d2aab96fe60d85198 ddbb48ec03092f0754ceb766ea71dac1f0b3df39 5827131553f7a019e9d73932b1ffa5aa6c9c2f70 
+----
+penta1 | 5 nodes | 5 edges
+----
+penta2 | 5 nodes | 5 edges
+----
+penta3 | 5 nodes | 5 edges
+----
+exa1 | 6 nodes | 6 edges
+----
+exa2 | 6 nodes | 6 edges
+----
+exa3 | 6 nodes | 6 edges
+----
+exa4 | 6 nodes | 6 edges
+----
+exa5 | 6 nodes | 6 edges
+----
+exa6 | 6 nodes | 6 edges
+75342be09b9d1c9c23b755ed6005867376aa1c28 2ad898cd9cc482d51d83eed3df6ca739534cefc1 7adb6b86d5744dbf84c4462d2aab96fe60d85198 5827131553f7a019e9d73932b1ffa5aa6c9c2f70 05f207a7408a07bf67089fb89fffac93dfeb1b4a 5ac0ed501b73774625ad6fbed48bf305dbfc866b 
+75342be09b9d1c9c23b755ed6005867376aa1c28 2ad898cd9cc482d51d83eed3df6ca739534cefc1 ddbb48ec03092f0754ceb766ea71dac1f0b3df39 5827131553f7a019e9d73932b1ffa5aa6c9c2f70 05f207a7408a07bf67089fb89fffac93dfeb1b4a 5ac0ed501b73774625ad6fbed48bf305dbfc866b 
+----
+exa7 | 6 nodes | 6 edges
+----
+exa8 | 6 nodes | 6 edges
+----
+epta1 | 7 nodes | 7 edges
+----
+epta2 | 7 nodes | 7 edges
+----
+epta3 | 7 nodes | 7 edges
+----
+epta4 | 7 nodes | 7 edges
+----
+epta5 | 7 nodes | 7 edges
+----
+epta6 | 7 nodes | 7 edges
+----
+epta7 | 7 nodes | 7 edges
+----
+epta8 | 7 nodes | 7 edges
+----
+epta9 | 7 nodes | 7 edges
+----
+octa1 | 8 nodes | 8 edges
+----
+octa2 | 8 nodes | 8 edges
+----
+octa3 | 8 nodes | 8 edges
+----
+octa4 | 8 nodes | 8 edges
+----
+octa5 | 8 nodes | 8 edges
+----
+octa6 | 8 nodes | 8 edges
+----
+octa7 | 8 nodes | 8 edges
+----
+octa8 | 8 nodes | 8 edges
+----
+octa9 | 8 nodes | 8 edges
+----
+octa10 | 8 nodes | 8 edges
+----
+octa11 | 8 nodes | 8 edges
+----
+octa12 | 8 nodes | 8 edges
+----
+octa13 | 8 nodes | 8 edges
+----
+octa14 | 8 nodes | 8 edges
+----
+octa15 | 8 nodes | 8 edges
+----
+octa16 | 8 nodes | 8 edges
+----
+octa17 | 8 nodes | 8 edges
+----
+octa18 | 8 nodes | 8 edges
+----
+octa19 | 8 nodes | 8 edges
+----
+octa20 | 8 nodes | 8 edges
+----
+enna1 | 9 nodes | 9 edges
+----
+enna2 | 9 nodes | 9 edges
+----
+enna3 | 9 nodes | 9 edges
+----
+enna4 | 9 nodes | 9 edges
+----
+enna5 | 9 nodes | 9 edges
+----
+enna6 | 9 nodes | 9 edges
+----
+enna7 | 9 nodes | 9 edges
+----
+enna8 | 9 nodes | 9 edges
+----
+enna9 | 9 nodes | 9 edges
+----
+enna10 | 9 nodes | 9 edges
+----
+enna11 | 9 nodes | 9 edges
+----
+enna12 | 9 nodes | 9 edges
+----
+enna13 | 9 nodes | 9 edges
+----
+enna14 | 9 nodes | 9 edges
+----
+enna15 | 9 nodes | 9 edges
+----
+enna16 | 9 nodes | 9 edges
+----
+enna17 | 9 nodes | 9 edges
+----
+enna18 | 9 nodes | 9 edges
+----
+enna19 | 9 nodes | 9 edges
+----
+enna20 | 9 nodes | 9 edges
+----
+enna21 | 9 nodes | 9 edges
+----
+enna22 | 9 nodes | 9 edges
+----
+enna23 | 9 nodes | 9 edges
+----
+enna24 | 9 nodes | 9 edges
+----
+enna25 | 9 nodes | 9 edges
+----
+enna26 | 9 nodes | 9 edges
+----
+enna27 | 9 nodes | 9 edges
+----
+enna28 | 9 nodes | 9 edges
+----
+deca1 | 10 nodes | 10 edges
+----
+deca2 | 10 nodes | 10 edges
+----
+deca3 | 10 nodes | 10 edges
+----
+deca4 | 10 nodes | 10 edges
+----
+deca5 | 10 nodes | 10 edges
+----
+deca6 | 10 nodes | 10 edges
+----
+deca7 | 10 nodes | 10 edges
+----
+deca8 | 10 nodes | 10 edges
+----
+deca9 | 10 nodes | 10 edges
+----
+deca10 | 10 nodes | 10 edges
+----
+deca11 | 10 nodes | 10 edges
+----
+deca12 | 10 nodes | 10 edges
+----
+deca13 | 10 nodes | 10 edges
+----
+deca14 | 10 nodes | 10 edges
+----
+deca15 | 10 nodes | 10 edges
+----
+deca16 | 10 nodes | 10 edges
+----
+deca17 | 10 nodes | 10 edges
+----
+deca18 | 10 nodes | 10 edges
+----
+deca19 | 10 nodes | 10 edges
+----
+deca20 | 10 nodes | 10 edges
+----
+deca21 | 10 nodes | 10 edges
+----
+deca22 | 10 nodes | 10 edges
+----
+deca23 | 10 nodes | 10 edges
+----
+deca24 | 10 nodes | 10 edges
+----
+deca25 | 10 nodes | 10 edges
+----
+deca26 | 10 nodes | 10 edges
+----
+deca27 | 10 nodes | 10 edges
+----
+deca28 | 10 nodes | 10 edges
+----
+deca29 | 10 nodes | 10 edges
+----
+deca30 | 10 nodes | 10 edges
+----
+deca31 | 10 nodes | 10 edges
+----
+deca32 | 10 nodes | 10 edges
+----
+deca33 | 10 nodes | 10 edges
+----
+deca34 | 10 nodes | 10 edges
+----
+deca35 | 10 nodes | 10 edges
+----
+deca36 | 10 nodes | 10 edges
+----
+deca37 | 10 nodes | 10 edges
+----
+deca38 | 10 nodes | 10 edges
+----
+deca39 | 10 nodes | 10 edges
+----
+deca40 | 10 nodes | 10 edges
+----
+deca41 | 10 nodes | 10 edges
+----
+deca42 | 10 nodes | 10 edges
+----
+deca43 | 10 nodes | 10 edges
+----
+deca44 | 10 nodes | 10 edges
+----
+deca45 | 10 nodes | 10 edges
+----
+deca46 | 10 nodes | 10 edges
+----
+deca47 | 10 nodes | 10 edges
+----
+deca48 | 10 nodes | 10 edges
+----
+deca49 | 10 nodes | 10 edges
+----
+deca50 | 10 nodes | 10 edges
+----
+deca51 | 10 nodes | 10 edges
+----
+deca52 | 10 nodes | 10 edges
+----
+deca53 | 10 nodes | 10 edges
+----

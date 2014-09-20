@@ -1,0 +1,278 @@
+tri1 | 3 nodes | 3 edges
+70319be2f31f4fa16b3c0377cebd0665b883fa58 5e8d06002f0b9a44b83a417085551c89cb0252d3 dcc1de038a2085e412cb9ce8730eb6024091331e 
+168ed500ec3f9eb07dc0626ff22540694bc26d01 cee400b9ac0586d6582a387bc51fe5b2f4709afb ee3a3d752a6eab9ae4aa72809f71c388c6ad6da0 
+9bd61268c6bceb401d221a7197b3e831892eae1f b485c41a6231284b3b1ef1f47bdf685b236a9678 20897f50e2c35c8becb5a71a0d17dc18e318dc18 
+2d62042618c4530b8fe1ecb5a274594f211395f3 bdfe90051aa8334cb69bb763fd0cb0796150510c 2b443e0fc176d236053b898c733028ff7ab4badd 
+336dc345321ef68ae69df21b220f555215a33b8c 5e8d06002f0b9a44b83a417085551c89cb0252d3 6fdb60a43d8107e45d491f84b395023e45a25fdc 
+3f89e3c7c679a84a170d087fb4f097e8d94a9c50 cd6845c88863aee7092eb9a7269e2f8655788fd8 c6ff26a701182dc578ff3157415f6f0536433cb9 
+f62af6df3d747672744b6d8ee830020cdb359d4c 533df372a5fa112c1117bb75d27ff050b7434818 e68aeb7cf1e12ad697386b2b479c09a68411c147 
+fcffba44860c130e4af25a30d2887592c43b66a7 26ecccc7e54054d3431d7d55f2cda35ca148b1a2 062e336f71a0434b9462f7485731fcfb47336e30 
+f40aa6a4ca1f7fc915f2914110f5483fa8171822 fcffba44860c130e4af25a30d2887592c43b66a7 062e336f71a0434b9462f7485731fcfb47336e30 
+----
+tetra1 | 4 nodes | 4 edges
+d3fb4facd21ce8ce1a32d8aaf897b68a0e59c694 a9454a6d3dd4b357fc316321076c29fc8569879a 0d2610405a3835c863fa0803fbbf8cb80e87ab20 19558d8c536327c4fc4db62ba9454c46015da1b1 
+a9454a6d3dd4b357fc316321076c29fc8569879a 0d3c94b039822a7f3aa42399e93f2e0d619e0dce 41a5991b6ab971453c825d5ce17aad004038e9de 19558d8c536327c4fc4db62ba9454c46015da1b1 
+fe833b6e3a070556cba37f5dd8f20ecdab7b8c8d 43ffcc895dec9240c2ea3f6426ee0d67bba79312 6dddea11fc9aa13feea283ca689d3aae9aa86667 e9965ad3beafa8aa9be43053a78bf7541bd4c696 
+fe833b6e3a070556cba37f5dd8f20ecdab7b8c8d 43ffcc895dec9240c2ea3f6426ee0d67bba79312 7735efbc635a8a2994d1424eb8c2c63db32bd752 0115749b725a16854b71a48d2191a23177ea611c 
+7735efbc635a8a2994d1424eb8c2c63db32bd752 0115749b725a16854b71a48d2191a23177ea611c cee400b9ac0586d6582a387bc51fe5b2f4709afb ee3a3d752a6eab9ae4aa72809f71c388c6ad6da0 
+70319be2f31f4fa16b3c0377cebd0665b883fa58 05c33f5a5feda92582ca0d0e191974dd106d29f3 be4490262e328417d3b6a7f4a3278167dd1c2351 dcc1de038a2085e412cb9ce8730eb6024091331e 
+f008a799de9023c710fb94030e41587018fc2c65 d3fb4facd21ce8ce1a32d8aaf897b68a0e59c694 0d2610405a3835c863fa0803fbbf8cb80e87ab20 d7f45c5d33c82e7510a46a0d239da4a41d5df503 
+fe833b6e3a070556cba37f5dd8f20ecdab7b8c8d 43ffcc895dec9240c2ea3f6426ee0d67bba79312 e290a2b5e1ca1f642872200e2b2b57c54bd2c02d e9965ad3beafa8aa9be43053a78bf7541bd4c696 
+0d3c94b039822a7f3aa42399e93f2e0d619e0dce 41a5991b6ab971453c825d5ce17aad004038e9de ef84d8ed3489d8dd8e86c1ba5332de66fcb4d0ec 63abd5f7d04a351392773dc3d411d8e0518c45f9 
+----
+tetra2 | 4 nodes | 4 edges
+533df372a5fa112c1117bb75d27ff050b7434818 2771a01653556b50d01b6f67663d8b6ee3ea8708 b13ebeba8d2290cf9b3c951bb90726e66932234d e68aeb7cf1e12ad697386b2b479c09a68411c147 
+----
+tetra3 | 4 nodes | 4 edges
+fe833b6e3a070556cba37f5dd8f20ecdab7b8c8d 6dddea11fc9aa13feea283ca689d3aae9aa86667 e290a2b5e1ca1f642872200e2b2b57c54bd2c02d e9965ad3beafa8aa9be43053a78bf7541bd4c696 
+----
+penta1 | 5 nodes | 5 edges
+3f89e3c7c679a84a170d087fb4f097e8d94a9c50 fe833b6e3a070556cba37f5dd8f20ecdab7b8c8d 6dddea11fc9aa13feea283ca689d3aae9aa86667 e290a2b5e1ca1f642872200e2b2b57c54bd2c02d cd6845c88863aee7092eb9a7269e2f8655788fd8 
+3f89e3c7c679a84a170d087fb4f097e8d94a9c50 6dddea11fc9aa13feea283ca689d3aae9aa86667 e290a2b5e1ca1f642872200e2b2b57c54bd2c02d e9965ad3beafa8aa9be43053a78bf7541bd4c696 cd6845c88863aee7092eb9a7269e2f8655788fd8 
+----
+penta2 | 5 nodes | 5 edges
+2771a01653556b50d01b6f67663d8b6ee3ea8708 b13ebeba8d2290cf9b3c951bb90726e66932234d ef84d8ed3489d8dd8e86c1ba5332de66fcb4d0ec 63abd5f7d04a351392773dc3d411d8e0518c45f9 cdf1569d8e6308dfbbc1d66d3b78885d2a5760c0 
+----
+penta3 | 5 nodes | 5 edges
+----
+exa1 | 6 nodes | 6 edges
+----
+exa2 | 6 nodes | 6 edges
+fdb57b181ffb6f338adebb913593403862aea289 70319be2f31f4fa16b3c0377cebd0665b883fa58 5e8d06002f0b9a44b83a417085551c89cb0252d3 6fdb60a43d8107e45d491f84b395023e45a25fdc d6c587720d9c19ae152bcf95b5ca9151c608fee3 be4490262e328417d3b6a7f4a3278167dd1c2351 
+----
+exa3 | 6 nodes | 6 edges
+f008a799de9023c710fb94030e41587018fc2c65 336dc345321ef68ae69df21b220f555215a33b8c 6fdb60a43d8107e45d491f84b395023e45a25fdc d6c587720d9c19ae152bcf95b5ca9151c608fee3 cd430548beef20462ff7fa7d24872efbedb2e2ea d7f45c5d33c82e7510a46a0d239da4a41d5df503 
+----
+exa4 | 6 nodes | 6 edges
+----
+exa5 | 6 nodes | 6 edges
+----
+exa6 | 6 nodes | 6 edges
+----
+exa7 | 6 nodes | 6 edges
+----
+exa8 | 6 nodes | 6 edges
+----
+epta1 | 7 nodes | 7 edges
+----
+epta2 | 7 nodes | 7 edges
+----
+epta3 | 7 nodes | 7 edges
+----
+epta4 | 7 nodes | 7 edges
+----
+epta5 | 7 nodes | 7 edges
+----
+epta6 | 7 nodes | 7 edges
+----
+epta7 | 7 nodes | 7 edges
+fdb57b181ffb6f338adebb913593403862aea289 5e8d06002f0b9a44b83a417085551c89cb0252d3 6fdb60a43d8107e45d491f84b395023e45a25fdc 05c33f5a5feda92582ca0d0e191974dd106d29f3 d6c587720d9c19ae152bcf95b5ca9151c608fee3 dcc1de038a2085e412cb9ce8730eb6024091331e be4490262e328417d3b6a7f4a3278167dd1c2351 
+----
+epta8 | 7 nodes | 7 edges
+----
+epta9 | 7 nodes | 7 edges
+----
+octa1 | 8 nodes | 8 edges
+----
+octa2 | 8 nodes | 8 edges
+----
+octa3 | 8 nodes | 8 edges
+----
+octa4 | 8 nodes | 8 edges
+----
+octa5 | 8 nodes | 8 edges
+----
+octa6 | 8 nodes | 8 edges
+----
+octa7 | 8 nodes | 8 edges
+----
+octa8 | 8 nodes | 8 edges
+----
+octa9 | 8 nodes | 8 edges
+----
+octa10 | 8 nodes | 8 edges
+----
+octa11 | 8 nodes | 8 edges
+----
+octa12 | 8 nodes | 8 edges
+----
+octa13 | 8 nodes | 8 edges
+----
+octa14 | 8 nodes | 8 edges
+----
+octa15 | 8 nodes | 8 edges
+----
+octa16 | 8 nodes | 8 edges
+----
+octa17 | 8 nodes | 8 edges
+----
+octa18 | 8 nodes | 8 edges
+----
+octa19 | 8 nodes | 8 edges
+----
+octa20 | 8 nodes | 8 edges
+----
+enna1 | 9 nodes | 9 edges
+----
+enna2 | 9 nodes | 9 edges
+f008a799de9023c710fb94030e41587018fc2c65 fdb57b181ffb6f338adebb913593403862aea289 70319be2f31f4fa16b3c0377cebd0665b883fa58 336dc345321ef68ae69df21b220f555215a33b8c 5e8d06002f0b9a44b83a417085551c89cb0252d3 d6c587720d9c19ae152bcf95b5ca9151c608fee3 cd430548beef20462ff7fa7d24872efbedb2e2ea be4490262e328417d3b6a7f4a3278167dd1c2351 d7f45c5d33c82e7510a46a0d239da4a41d5df503 
+----
+enna3 | 9 nodes | 9 edges
+----
+enna4 | 9 nodes | 9 edges
+----
+enna5 | 9 nodes | 9 edges
+----
+enna6 | 9 nodes | 9 edges
+----
+enna7 | 9 nodes | 9 edges
+----
+enna8 | 9 nodes | 9 edges
+----
+enna9 | 9 nodes | 9 edges
+----
+enna10 | 9 nodes | 9 edges
+----
+enna11 | 9 nodes | 9 edges
+----
+enna12 | 9 nodes | 9 edges
+----
+enna13 | 9 nodes | 9 edges
+----
+enna14 | 9 nodes | 9 edges
+----
+enna15 | 9 nodes | 9 edges
+----
+enna16 | 9 nodes | 9 edges
+----
+enna17 | 9 nodes | 9 edges
+----
+enna18 | 9 nodes | 9 edges
+----
+enna19 | 9 nodes | 9 edges
+----
+enna20 | 9 nodes | 9 edges
+----
+enna21 | 9 nodes | 9 edges
+----
+enna22 | 9 nodes | 9 edges
+----
+enna23 | 9 nodes | 9 edges
+----
+enna24 | 9 nodes | 9 edges
+----
+enna25 | 9 nodes | 9 edges
+----
+enna26 | 9 nodes | 9 edges
+----
+enna27 | 9 nodes | 9 edges
+----
+enna28 | 9 nodes | 9 edges
+----
+deca1 | 10 nodes | 10 edges
+----
+deca2 | 10 nodes | 10 edges
+----
+deca3 | 10 nodes | 10 edges
+----
+deca4 | 10 nodes | 10 edges
+----
+deca5 | 10 nodes | 10 edges
+----
+deca6 | 10 nodes | 10 edges
+----
+deca7 | 10 nodes | 10 edges
+----
+deca8 | 10 nodes | 10 edges
+----
+deca9 | 10 nodes | 10 edges
+----
+deca10 | 10 nodes | 10 edges
+----
+deca11 | 10 nodes | 10 edges
+----
+deca12 | 10 nodes | 10 edges
+----
+deca13 | 10 nodes | 10 edges
+----
+deca14 | 10 nodes | 10 edges
+----
+deca15 | 10 nodes | 10 edges
+----
+deca16 | 10 nodes | 10 edges
+----
+deca17 | 10 nodes | 10 edges
+----
+deca18 | 10 nodes | 10 edges
+----
+deca19 | 10 nodes | 10 edges
+----
+deca20 | 10 nodes | 10 edges
+----
+deca21 | 10 nodes | 10 edges
+----
+deca22 | 10 nodes | 10 edges
+----
+deca23 | 10 nodes | 10 edges
+f008a799de9023c710fb94030e41587018fc2c65 fdb57b181ffb6f338adebb913593403862aea289 336dc345321ef68ae69df21b220f555215a33b8c 5e8d06002f0b9a44b83a417085551c89cb0252d3 d6c587720d9c19ae152bcf95b5ca9151c608fee3 05c33f5a5feda92582ca0d0e191974dd106d29f3 cd430548beef20462ff7fa7d24872efbedb2e2ea be4490262e328417d3b6a7f4a3278167dd1c2351 dcc1de038a2085e412cb9ce8730eb6024091331e d7f45c5d33c82e7510a46a0d239da4a41d5df503 
+----
+deca24 | 10 nodes | 10 edges
+----
+deca25 | 10 nodes | 10 edges
+----
+deca26 | 10 nodes | 10 edges
+----
+deca27 | 10 nodes | 10 edges
+----
+deca28 | 10 nodes | 10 edges
+----
+deca29 | 10 nodes | 10 edges
+----
+deca30 | 10 nodes | 10 edges
+----
+deca31 | 10 nodes | 10 edges
+----
+deca32 | 10 nodes | 10 edges
+----
+deca33 | 10 nodes | 10 edges
+----
+deca34 | 10 nodes | 10 edges
+----
+deca35 | 10 nodes | 10 edges
+----
+deca36 | 10 nodes | 10 edges
+----
+deca37 | 10 nodes | 10 edges
+----
+deca38 | 10 nodes | 10 edges
+----
+deca39 | 10 nodes | 10 edges
+----
+deca40 | 10 nodes | 10 edges
+----
+deca41 | 10 nodes | 10 edges
+----
+deca42 | 10 nodes | 10 edges
+----
+deca43 | 10 nodes | 10 edges
+----
+deca44 | 10 nodes | 10 edges
+----
+deca45 | 10 nodes | 10 edges
+----
+deca46 | 10 nodes | 10 edges
+----
+deca47 | 10 nodes | 10 edges
+----
+deca48 | 10 nodes | 10 edges
+----
+deca49 | 10 nodes | 10 edges
+----
+deca50 | 10 nodes | 10 edges
+----
+deca51 | 10 nodes | 10 edges
+----
+deca52 | 10 nodes | 10 edges
+----
+deca53 | 10 nodes | 10 edges
+----
